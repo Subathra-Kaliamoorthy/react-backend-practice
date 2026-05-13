@@ -10,6 +10,7 @@ A practice project built using React to understand backend integration, API comm
 * Fetch and display data dynamically
 * Handle HTTP requests and responses
 * Manage asynchronous operations
+* Reusable custom hooks implementation
 * Simple and responsive UI
 
 ---
@@ -31,6 +32,8 @@ A practice project built using React to understand backend integration, API comm
 * Handling asynchronous operations
 * Managing server responses
 * Frontend and backend communication
+* Creating and using custom hooks
+* Reusing logic across components
 
 ---
 
